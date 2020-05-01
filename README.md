@@ -1,2 +1,0 @@
-# weatthy
-Created with CodeSandbox
